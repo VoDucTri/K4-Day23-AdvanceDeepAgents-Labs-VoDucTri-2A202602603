@@ -1,0 +1,90 @@
+[
+  {
+    "n": 1,
+    "id": "2404.10719",
+    "url": "https://arxiv.org/abs/2404.10719v3",
+    "title": "Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study",
+    "date": "2024-10-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "NeurIPS 2024 / TÜLU 2",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/404df2480b6eef0486a1679e371894b0-Paper-Conference.pdf",
+    "title": "Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback",
+    "date": "2024-12-01",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2607.27631",
+    "url": "https://huggingface.co/papers/2607.27631",
+    "title": "ReDiPPO: Reference-Guided Value Calibration and Discrepancy-Aware Token Reweighting for Mathematical Reasoning",
+    "date": "2026-07-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2410.09302",
+    "url": "https://huggingface.co/papers/2410.09302",
+    "title": "Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization",
+    "date": "2024-10-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "arXiv:2510.20272",
+    "url": "https://arxiv.org/pdf/2510.20272",
+    "title": "PRM-guided Tree Search vs Best-of-N for Mathematical Reasoning",
+    "date": "2025-10-01",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2411.11694",
+    "url": "https://huggingface.co/papers/2411.11694",
+    "title": "Technical Report: Enhancing LLM Reasoning with Reward-guided Tree Search",
+    "date": "2024-12-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2502.13575",
+    "url": "https://huggingface.co/papers/2502.13575",
+    "title": "ETS: Efficient Tree Search for Inference-Time Scaling",
+    "date": "2025-02-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "AAAI 40289",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/download/40289/44250",
+    "title": "Generalization of Process Reward Models in Test-Time Scaling",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2412.17256",
+    "url": "https://huggingface.co/papers/2412.17256",
+    "title": "B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners",
+    "date": "2024-12-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2402.06457",
+    "url": "https://huggingface.co/papers/2402.06457",
+    "title": "V-STaR: Training Verifiers for Self-Taught Reasoners",
+    "date": "2024-02-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "arXiv:2605.02572v1",
+    "url": "https://arxiv.org/html/2605.02572v1",
+    "title": "On Training Large Language Models for Long-Horizon Tasks: An Empirical Study of Horizon Length",
+    "date": "2026-05-02",
+    "source": "web"
+  }
+]

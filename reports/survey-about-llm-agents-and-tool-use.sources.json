@@ -1,0 +1,122 @@
+[
+  {
+    "n": 1,
+    "id": "arxiv:2210.03629",
+    "url": "https://huggingface.co/papers/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2022-10-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "arxiv:2305.04091",
+    "url": "https://huggingface.co/papers/2305.04091",
+    "title": "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models",
+    "date": "2023-05-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "arxiv:2302.04761",
+    "url": "https://huggingface.co/papers/2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "arxiv:2305.15334",
+    "url": "https://huggingface.co/papers/2305.15334",
+    "title": "Gorilla: Large Language Model Connected with Massive APIs",
+    "date": "2023-05-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "arxiv:2308.03688",
+    "url": "https://huggingface.co/papers/2308.03688",
+    "title": "AgentBench: Evaluating LLMs as Agents",
+    "date": "2023-08-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "iclr:2024:toolbench",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/28e50ee5b72e90b50e7196fde8ea260e-Paper-Conference.pdf",
+    "title": "ToolBench: General Tool-Use Framework and ToolEval",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "neurips:2024:gorilla",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/e4c61f578ff07830f5c37378dd3ecb0d-Paper-Conference.pdf",
+    "title": "Gorilla: Large Language Model Connected with Massive APIs & APIBench",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "emnlp:2025:safetoolbench",
+    "url": "https://aclanthology.org/2025.findings-emnlp.958.pdf",
+    "title": "SafeToolBench: Evaluating Tool Utilization Safety in LLMs",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "github:thu-coai:agent-safetybench",
+    "url": "https://github.com/thu-coai/Agent-SafetyBench",
+    "title": "Agent-SafetyBench: Evaluating the Safety of LLM Agents",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "arxiv:2308.08155",
+    "url": "https://huggingface.co/papers/2308.08155",
+    "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework",
+    "date": "2023-08-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "arxiv:2308.00352",
+    "url": "https://huggingface.co/papers/2308.00352",
+    "title": "MetaGPT: Meta Programming for Multi-Agent Collaborative Framework",
+    "date": "2023-08-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "crewai:docs",
+    "url": "https://docs.crewai.com/edge/en/concepts/agents",
+    "title": "CrewAI: Role-Based Multi-Agent Framework & Flows",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "e2b:dev",
+    "url": "https://e2b.dev/",
+    "title": "E2B: Secure Cloud Sandboxes and MicroVMs for AI Agents",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "modal:sandboxes",
+    "url": "https://modal.com/docs/guide/sandboxes",
+    "title": "Modal Sandboxes: Secure Containers for Coding Agents",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "arxiv:2308.11432",
+    "url": "https://arxiv.org/html/2308.11432v6",
+    "title": "A Survey on Large Language Model based Autonomous Agents",
+    "date": "2024-03-22",
+    "source": "arxiv"
+  }
+]

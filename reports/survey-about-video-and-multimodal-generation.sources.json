@@ -1,0 +1,98 @@
+[
+  {
+    "n": 1,
+    "id": "2405.10674",
+    "url": "https://arxiv.org/html/2405.10674v1",
+    "title": "From Sora What We Can See: A Survey of Text-to-Video Generation",
+    "date": "2024-05-17",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2405.03150",
+    "url": "https://arxiv.org/abs/2405.03150",
+    "title": "Video Diffusion Models: A Survey",
+    "date": "2024-11-17",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2412.20404",
+    "url": "https://arxiv.org/html/2412.20404",
+    "title": "Open-Sora: Democratizing Efficient Video Production for All",
+    "date": "2024-12-01",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2412.00131",
+    "url": "https://arxiv.org/abs/2412.00131",
+    "title": "Open-Sora Plan: Open-Source Large Video Generation Model",
+    "date": "2024-11-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2408.06072",
+    "url": "https://arxiv.org/abs/2408.06072",
+    "title": "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer",
+    "date": "2025-03-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2503.09642",
+    "url": "https://huggingface.co/papers/2503.09642",
+    "title": "Open-Sora 2.0: Training a Commercial-Level Video Generation Model in $200k",
+    "date": "2025-03-12",
+    "source": "hf-daily"
+  },
+  {
+    "n": 7,
+    "id": "2411.13503",
+    "url": "https://huggingface.co/papers/2411.13503",
+    "title": "VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models",
+    "date": "2024-11-20",
+    "source": "hf-daily"
+  },
+  {
+    "n": 8,
+    "id": "2024.emnlp-main.127",
+    "url": "https://aclanthology.org/2024.emnlp-main.127/",
+    "title": "Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation",
+    "date": "2024-11-01",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2402.17177",
+    "url": "https://arxiv.org/html/2402.17177v3",
+    "title": "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models",
+    "date": "2024-02-27",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2311.15127",
+    "url": "https://huggingface.co/papers/2311.15127",
+    "title": "Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets",
+    "date": "2023-11-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2401.15977",
+    "url": "https://huggingface.co/papers/2401.15977",
+    "title": "Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling",
+    "date": "2024-01-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2309.16429",
+    "url": "https://huggingface.co/papers/2309.16429",
+    "title": "Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation",
+    "date": "2023-09-28",
+    "source": "hf-search"
+  }
+]

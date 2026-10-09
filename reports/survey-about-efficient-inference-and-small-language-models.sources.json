@@ -1,0 +1,170 @@
+[
+  {
+    "n": 1,
+    "id": "arxiv:2510.18245",
+    "url": "https://arxiv.org/abs/2510.18245",
+    "title": "Scaling Laws Meet Model Architecture: Toward Inference-Efficient and Accurate Architectures",
+    "date": "2026-05-13",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "acm:3711896.3736563",
+    "url": "https://dl.acm.org/doi/epdf/10.1145/3711896.3736563",
+    "title": "A Survey on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "arxiv:2403.17844",
+    "url": "https://arxiv.gg/abs/2403.17844",
+    "title": "Mechanistic Design and Scaling of Hybrid Architectures",
+    "date": "2024-08-19",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "arxiv:2505.19529",
+    "url": "https://arxiv.org/html/2505.19529v2",
+    "title": "Small Language Models: Architectures, Techniques, Evaluation, and Application",
+    "date": "2025-05-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "hf-search:2305.13245",
+    "url": "https://huggingface.co/papers/2305.13245",
+    "title": "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints",
+    "date": "2023-05-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "arXiv:2210.17323",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/c76edb907c2ee3412219ee69dc2ea647-Paper-Conference.pdf",
+    "title": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers & Its Geometric Interpretation via Babai's Nearest Plane Algorithm",
+    "date": "2026-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "arXiv:2306.00978",
+    "url": "https://huggingface.co/papers/2306.00978",
+    "title": "AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration",
+    "date": "2023-06-05",
+    "source": "hf-daily"
+  },
+  {
+    "n": 8,
+    "id": "arXiv:2306.03078",
+    "url": "https://huggingface.co/papers/2306.03078",
+    "title": "SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression",
+    "date": "2023-06-05",
+    "source": "hf-daily"
+  },
+  {
+    "n": 9,
+    "id": "arXiv:2402.04396",
+    "url": "https://huggingface.co/papers/2402.04396",
+    "title": "QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks",
+    "date": "2024-02-06",
+    "source": "hf-daily"
+  },
+  {
+    "n": 10,
+    "id": "arXiv:2402.17764",
+    "url": "https://arxiv.org/abs/2402.17764",
+    "title": "The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits",
+    "date": "2024-02-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "arXiv:2502.11880",
+    "url": "https://arxiv.org/abs/2502.11880",
+    "title": "Bitnet.cpp: Efficient Edge Inference for Ternary LLMs",
+    "date": "2025-02-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "arXiv:2309.06180",
+    "url": "https://arxiv.org/abs/2309.06180",
+    "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+    "date": "2023-09-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "arXiv:2407.08608",
+    "url": "https://arxiv.org/abs/2407.08608",
+    "title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision",
+    "date": "2024-07-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "arXiv:2503.24358",
+    "url": "https://huggingface.co/papers/2503.24358",
+    "title": "SQuat: Subspace-orthogonal KV Cache Quantization & Extreme KV Compression Methods",
+    "date": "2025-03-31",
+    "source": "hf-daily"
+  },
+  {
+    "n": 15,
+    "id": "github-vllm",
+    "url": "https://github.com/vllm-project/vllm",
+    "title": "High-Performance LLM Serving and Edge Acceleration Ecosystem (vLLM, TensorRT-LLM, Ollama)",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2511.21285v2",
+    "url": "https://arxiv.org/html/2511.21285v2",
+    "title": "PEFT-Bench: A Parameter-Efficient Fine-Tuning Methods Benchmark",
+    "date": "2025-11-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2606.06920",
+    "url": "https://ar5iv.labs.arxiv.org/html/2606.06920",
+    "title": "The Fine-Tuning Trap: Evaluating Negative Transfer and the Role of PEFT in Sub-1B Mathematical Reasoning",
+    "date": "2026-06-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2608.04488",
+    "url": "https://arxiv.org/pdf/2608.04488.pdf",
+    "title": "Energy- and Memory-Efficient PEFT Methods for Personalized On-Device SLMs on Consumer GPUs",
+    "date": "2026-08-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "acm:3768165",
+    "url": "https://dl.acm.org/doi/full/10.1145/3768165",
+    "title": "A Comprehensive Survey of Small Language Models in the Era of LLMs",
+    "date": "2025-11-24",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "2501.05465v2",
+    "url": "https://arxiv.org/html/2501.05465v2",
+    "title": "Small Language Models (SLMs) Can Still Pack a Punch",
+    "date": "2025-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "hf-phi3",
+    "url": "https://huggingface.co/papers/2404.14219",
+    "title": "Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone",
+    "date": "2024-04-22",
+    "source": "hf-search"
+  }
+]
